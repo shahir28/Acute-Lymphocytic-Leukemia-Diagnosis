@@ -1,2 +1,3 @@
 # Leukemia-Classification-based-on-Microscopic-Images
-This project is under a CPE352 (Data Sciences)
+Modeling:
+https://colab.research.google.com/drive/1YcH3uX6YT5h3d9ADFgfkzsU9b_VIXpTC?usp=sharing
